@@ -1,3 +1,4 @@
 # hello-world
-test repository
-I am Erin and I am writing a bit about myself
+
+day 2
+practice makes perfect
